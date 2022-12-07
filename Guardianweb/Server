@@ -1,1 +1,10 @@
+General instructions:
+-Install webserver interface "https://www.apachefriends.org/download.html"
 
+-Download and place whole contents of this folder into xampp instalation htdocs directory.
+
+-Start apache and Mysql modules from xampp's control panel.
+-To set up the database visit "http://localhost/phpmyadmin/" on the host machine.
+-Create a new database and import the existing file "biometricattendance" from this root folder.
+
+-Visit homepage "http://localhost/Guardianweb/login.php".
